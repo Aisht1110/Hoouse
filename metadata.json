@@ -1,0 +1,6 @@
+{
+  "name": "Solaris Villa - Luxury 3D Estate & Smart Eco-Mansion",
+  "description": "An interactive 3D luxury modern villa featuring a 2-story residence, infinity pool, back garage, rooftop gym, high-efficiency solar panel telemetry, and smart garden irrigation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
